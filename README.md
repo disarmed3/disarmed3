@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Selenium and Postman for my portfolio**<br><br>- 💬 Ask me about **Java, Selenium, TestNG, ISTQB**<br><br>- 📫 How to reach me **t.athanasiadis.test@gmail.com**
+- 🔭 I’m currently working on **Selenium and Postman for my portfolio**<br><br>- 💬 Ask me about **Java, Selenium, TestNG, ISTQB,Postman**<br><br>- 📫 How to reach me **t.athanasiadis.test@gmail.com**
 
 
 ## 🌐 Socials:
