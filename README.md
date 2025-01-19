@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **C# with Playwright for my portfolio**<br><br>- 💬 Ask me about **Java, C#, Selenium, Specflow, TestNG, ISTQB, Postman, Playwright**<br><br>- 📫 How to reach me **t.athanasiadis.test@gmail.com**
+- 🔭 I’m currently working on a **Full stack app with Java backend and React JS frontend for my portfolio**<br><br>- 💬 Ask me about **Java, C#, Selenium, Specflow, TestNG, ISTQB, Postman, Playwright**<br><br>- 📫 How to reach me **t.athanasiadis.test@gmail.com**
 
 
 ## 🌐 Socials:
